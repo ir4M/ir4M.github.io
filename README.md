@@ -14,4 +14,4 @@
 
 ### Profiles
 
-[GitHub](https://github.com/ir4M) | [Frontend Mentor](https://www.frontendmentor.io/profile/ir4M) | [Codecademy](https://www.codecademy.com/profiles/marius1411687277)
+[GitHub](https://github.com/ir4M) - [Frontend Mentor](https://www.frontendmentor.io/profile/ir4M) - [Codecademy](https://www.codecademy.com/profiles/marius1411687277)
